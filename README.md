@@ -37,9 +37,7 @@ This repository contains the core source code for our SRGAN model along with an 
    Place your low-resolution images in the designated folder if needed.
 
 2. **Run the Model:**  
-   Execute the ipynb file to perform super-resolution:
-   ```PixelAscend.ipynb
-   ```
+   Execute the ipynb file to perform super-resolution.
    The model will process the images and generate high-resolution outputs.
 
 3. **View the Output:**  
